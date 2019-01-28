@@ -1,0 +1,1 @@
+In this project, the goal is to predict the future weekly sales for each department in each store based on the historical data. I am leveraging historical sales data for 45 Walmart stores located in different regions. Each store contains many departments.
